@@ -34,7 +34,7 @@ Architecture applicative en couches, cartographies fonctionnelles
 Modèles d’infrastructure,
 Architecture d'intégration, APIs, échanges
 Processus métiers....
-
+```
 ---
 
 ## 🛠️ Outils utilisés
